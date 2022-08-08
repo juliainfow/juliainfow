@@ -1,6 +1,6 @@
-## Hi, Universe! 🤘
+## Hi, Universe!  Eu sou a Julia. 
  
-✏️ Atualmente estou estudando o 1/3 módulo de Info. para Web.
+✏️ Atualmente estou cursando o 1/3 módulo de Info. para Web.
 
 
  
