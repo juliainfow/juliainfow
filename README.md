@@ -1,13 +1,11 @@
 ## Hi, Universe!  Eu sou a Julia. 
- 
 ✏️ Atualmente estou cursando o 1/3 módulo de Info. para Web.
  
 <div align="center">
   <a href="https://github.com/juliainfow">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=juliainfow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliainfow&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliainfow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliainfow&layout=compact&langs_count=7&theme=dark"/>
   
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110786178/183332117-3e299693-9880-4e9c-9ed2-aff3497d7cf5.gif)
   
 </div>
 
@@ -18,5 +16,5 @@
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/110786178/183330846-ca66d9e0-3ef0-42dc-a929-e005c57860be.gif)
+ </div>
