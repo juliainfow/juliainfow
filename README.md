@@ -1,5 +1,5 @@
 ## Hi, Universe!  Eu sou a Julia. 
-✏️ Atualmente estou cursando o 1/3 módulo de Info. para Web.
+✏️ Atualmente estou cursando o 1/3 módulo de Info. para Web e estou começando a desenvolver projetos em HTML, CSS E JAVASCRIPT.
  
 <div>
   <a href="https://github.com/juliainfow">
