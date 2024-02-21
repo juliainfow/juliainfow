@@ -1,5 +1,7 @@
-## Hi, Universe!  Eu sou a Julia. 
-✏️ Atualmente estou cursando o 1/3 módulo de Info. para Web e estou começando a desenvolver projetos em HTML, CSS E JAVASCRIPT.
+## Hi!  Eu sou a Julia. 
+✏️ Em 2023 me formei no tec. em desenvolvimento WEB. Atualmente estou me especializando em ferramentas direcionadas para web, mais especificamente: ferramentas de frontend.
+Algumas delas são: HTML5, CSS3, JS, BOOTSTRAP. E seguindo a linha de WEB: PHP e MYSQL.
+Aprendi lógica de programação estudando (e ainda estudo) C. 
  
 <div>
   <a href="https://github.com/juliainfow">
